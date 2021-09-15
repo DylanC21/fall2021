@@ -1,5 +1,5 @@
-- Name:  *write your full name*
-- Date:  *write the date of submission*
+- Name:  Dylan Czubak
+- Date:  9/16/21
 
 
 # Introduction to ROS -- Self Study
